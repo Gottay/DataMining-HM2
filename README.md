@@ -8,6 +8,7 @@ RelationshipMining 选择1个数据集进行频繁模式和关联规则挖掘
 <p>generate_rules.txt为实验生成的关系规则文件
 <br>
 <p>环境:<br>
+    
 * pyCharm <br>
     
 * Anaconda(主要使用Jupyter Notebook以及作为该项目Interpreter) <br>
@@ -25,6 +26,7 @@ RelationshipMining 选择1个数据集进行频繁模式和关联规则挖掘
 
 <br>
 <p>二、数据分析要求<br>
+    
 * 2.1 对数据集进行处理，转换成适合进行关联规则挖掘的形式<br>
     
 * 2.2 找出频繁模式<br>
